@@ -23,13 +23,13 @@ export function Projects() {
             title="REST Session Controller App"
             description="An application that allows you to connect to a server, display sessions, and manage them. Developed as part of practice at Streamsoft"
             tech={['C#', '.NET', 'RestSharp']}
-            image="src/images/restController.jpeg"
+            image="public/restController.jpeg"
           />
           <ProjectCard 
             title="Starry Sky Designer App"
             description="Design stunning starry skies for your car. Developed during freelancing."
             tech={['React', 'TypeScript', 'Tailwindcss']}
-            image="src/images/stars-for-car-ceiling-v0-d4p6bwerbf7e1.webp"
+            image="public/stars-for-car-ceiling-v0-d4p6bwerbf7e1.webp"
           />
         </div>
       </div>
