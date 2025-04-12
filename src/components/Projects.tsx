@@ -59,7 +59,7 @@ export function Projects() {
             title="StudyFlow"
             description="The app helps users plan their studies, track their progress, and organize their materials. Perfect for students, pupils, or independent learners."
             tech={['React', 'Tailwindcss', 'Java', 'SpringBoot']}
-            image="under_construction.png"
+            image="underconstruction.png"
           />
           <ProjectCard 
             title="e-Senior"
